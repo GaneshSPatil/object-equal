@@ -1,0 +1,24 @@
+{
+  "name": "object-equal",
+  "version": "0.0.1",
+  "description": "a simple object comparator",
+  "main": "compare.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaneshSPatil/object-equal.git"
+  },
+  "author": "Ganesh Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GaneshSPatil/object-equal/issues"
+  },
+  "homepage": "https://github.com/GaneshSPatil/object-equal#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.10.2",
+    "mocha": "^3.1.2"
+  }
+}
